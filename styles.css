@@ -6,7 +6,7 @@ body{
     background-color: #E9FAFC;
     border-radius: 10px;
     padding: 10px 10px;
-    height: 800px;
+    height: 600px;
     margin-bottom: -1%;
 
 }
@@ -28,30 +28,36 @@ h3{
     color: orange;
 }
 .btn1{
-   background-color: rgb(99, 99, 155);
+   background-color: #1AA0AB;
     border-radius: 5px;
 }
 .circleimage{
     border-radius: 50%;
-    border: 15px solid grey;
+    border: 30px solid rgb(187, 182, 182);
     align-items: center;
     float: right;
     align-items: center;
-    padding-right: 20px;
+    padding-right: 25px;
     margin-right: 20%;
-    margin-top: -20%;
+    margin-top: -26%;
     margin-bottom: -90%;
 }
 .container2{
-    background-color: #F7FEFF;
+    background-color: #cbebf0;
     height: 100%; 
     padding-top: 10px;
     /* padding: 10px 10px; */
-
-
 }
-.header2{
+.container2 h4{
     float: right;
+    padding-right: 50px;
+    color: #B3A7C8;
+}
+.container2 h3{
+    color: #A29FA9;
+}
+.container2 h5{
+    color: #A29FA9;
 }
 .firstline{
     display: flex;
@@ -70,14 +76,39 @@ h3{
     justify-content: center;
 }
 .container3{
-    background-color: aquamarine;
-    /* padding-top: 20px; */
+    background-color: #F9FEFF;
     padding: 10px 10px;
-    height: 500px;
+    height: 400px;
 }
-.btn2{
-    background-color: rgb(52, 52, 189);
+.docimage img{
+    background-color: rgb(172, 160, 160);
+    height: 450px;
+    width: 400px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.m{
+    background-color: #FFFFFF;
+}
+.y{
+    background-color: #FFFFFF;
+}
+.veterians h3{
+    color: #1e1c20;
+}
+.veterians h4{
+color: #A29FA9;
+}
+.veterians p{
+    color: #D93B3B;
+}
+.text button{
+    background-color: #1AA0AB   ;
     border-radius: 3px;
+    height: 50px;
+    width: 100px;
+    align-items: center;
+    border-radius: 5px;
 }
 .text{
     color: blueviolet;
@@ -85,21 +116,28 @@ h3{
     margin-right: 10%;
 }
 .container4{
-    background-color: rgb(78, 231, 180);
+    background-color: #E9FAFC;
     height: 100%; 
     /* padding-top: 20px; */
     padding: 10px 10px;
 }
 .container4 h4{
     float: right;
+    margin-top: -6%;
+    color: rgb(172, 160, 160);
 
 }
 .container4 p{
     float: right;
     color: #448FF2;
 }
+.quotes{
+padding-top: -10%;
+}
+
 .see{
     float: right;
+    height: 30px;
     color: blue;
 }
 .docs{
@@ -111,18 +149,18 @@ h3{
     justify-content: center;
 }
 .doc1{
-    background-color: whitesmoke;
+    background-color: #F3E3FF;
    
 }
 .doc2{
-    background-color: whitesmoke;
+    background-color: #E7FBFF;
 
 }
 .black{
-    background-color: whitesmoke;
+    background-color: #FDF7EF;
 }
 .container5{
-    background-color: rgb(73, 219, 170);
+    background-color: #E9FAFC;
     height: 100%; 
     /* padding-top: 20px; */
     padding: 10px 10px;
@@ -132,27 +170,49 @@ h3{
     padding: 20px;
     justify-content: space-between;
 }
+.veterians p{
+    color: orange;
+    float: left;
+}
+.veterians em{
+    color: #1e1c20;
+}
 .container6{
-    background-color: rgb(86, 199, 161);
-    height: 100%; 
-    /* padding-top: 20px; */
-    padding: 10px 10px;
+    background-color: #ECF9FD;
+    padding: 10px 10px; 
+}
+.container6 h2{
+    align-items: center;
+}
+.container6 form{
+    height: 40px;
 }
 .innerbtn{
-    background-color: rgb(41, 87, 212);
+    background-color: #489CB0;
+    height: 50px;
 }
 .utterbtn{
     background-color: white;
 }
 .container7{
-    background-color: rgb(87, 223, 177);
-    height: 100%; 
-    padding: 10px 10px;
+    background-color: #F9FEFF;
     display: flex;
-    column-gap: 20px;
-    row-gap: 20px;
-    flex-wrap: wrap;
-    padding: 80px;
+}
+
+.div1{
+    padding: 7%;
+}
+.div1 em{
+    padding-right: 30px;
+}
+.div2{
+    padding: 7%;
+}
+.div3{
+    padding: 7%;
+}
+.div4{
+    padding: 7%;
 }
 .y{
     margin-left: 30%;
