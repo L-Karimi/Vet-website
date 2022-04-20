@@ -1,0 +1,160 @@
+body{
+    background-color: #CACDE3;
+    margin: 5%;
+}
+.container1{
+    background-color: #E9FAFC;
+    border-radius: 10px;
+    padding: 10px 10px;
+    height: 800px;
+    margin-bottom: -1%;
+
+}
+.nav a{
+    text-align: end;
+    padding: 10px 40px;
+    text-decoration: none;
+    margin-top: 2px;
+    float: right;
+
+}
+h1{
+    font-size: 50px;
+}
+h4{
+    font-size: large;
+}
+h3{
+    color: orange;
+}
+.btn1{
+   background-color: rgb(99, 99, 155);
+    border-radius: 5px;
+}
+.circleimage{
+    border-radius: 50%;
+    border: 15px solid grey;
+    align-items: center;
+    float: right;
+    align-items: center;
+    padding-right: 20px;
+    margin-right: 20%;
+    margin-top: -20%;
+    margin-bottom: -90%;
+}
+.container2{
+    background-color: #F7FEFF;
+    height: 100%; 
+    padding-top: 10px;
+    /* padding: 10px 10px; */
+
+
+}
+.header2{
+    float: right;
+}
+.firstline{
+    display: flex;
+    column-gap: 60px;
+    row-gap: 20px;
+    flex-wrap: wrap;
+    padding: 20px;
+    justify-content: center;
+}
+.secondline{
+    display: flex;
+    column-gap: 20px;
+    row-gap: 20px;
+    flex-wrap: wrap;
+    padding: 20px;
+    justify-content: center;
+}
+.container3{
+    background-color: aquamarine;
+    /* padding-top: 20px; */
+    padding: 10px 10px;
+    height: 500px;
+}
+.btn2{
+    background-color: rgb(52, 52, 189);
+    border-radius: 3px;
+}
+.text{
+    color: blueviolet;
+    float: right;
+    margin-right: 10%;
+}
+.container4{
+    background-color: rgb(78, 231, 180);
+    height: 100%; 
+    /* padding-top: 20px; */
+    padding: 10px 10px;
+}
+.container4 h4{
+    float: right;
+
+}
+.container4 p{
+    float: right;
+    color: #448FF2;
+}
+.see{
+    float: right;
+    color: blue;
+}
+.docs{
+    display: flex;
+    column-gap: 20px;
+    row-gap: 20px;
+    flex-wrap: wrap;
+    padding: 20px;
+    justify-content: center;
+}
+.doc1{
+    background-color: whitesmoke;
+   
+}
+.doc2{
+    background-color: whitesmoke;
+
+}
+.black{
+    background-color: whitesmoke;
+}
+.container5{
+    background-color: rgb(73, 219, 170);
+    height: 100%; 
+    /* padding-top: 20px; */
+    padding: 10px 10px;
+}
+.veterians{
+    display: flex;
+    padding: 20px;
+    justify-content: space-between;
+}
+.container6{
+    background-color: rgb(86, 199, 161);
+    height: 100%; 
+    /* padding-top: 20px; */
+    padding: 10px 10px;
+}
+.innerbtn{
+    background-color: rgb(41, 87, 212);
+}
+.utterbtn{
+    background-color: white;
+}
+.container7{
+    background-color: rgb(87, 223, 177);
+    height: 100%; 
+    padding: 10px 10px;
+    display: flex;
+    column-gap: 20px;
+    row-gap: 20px;
+    flex-wrap: wrap;
+    padding: 80px;
+}
+.y{
+    margin-left: 30%;
+}
+
