@@ -111,6 +111,8 @@ h3 {
 }
 .y {
   background-color: #ffffff;
+  margin-left: 5%;
+  float: left;
 }
 .veterians h3 {
   color: #1e1c20;
@@ -137,27 +139,25 @@ h3 {
 .container4 {
   background-color: #e9fafc;
   height: 100%;
-  /* padding-top: 20px; */
   padding: 10px 10px;
 }
 .container4 h4 {
   float: right;
-  margin-top: -4%;
+  margin-top: -7%;
   color: rgb(172, 160, 160);
 }
 .container4 p {
   float: right;
   color: #448ff2;
-  margin-bottom: 10px;
+  margin-bottom: 15px;
 }
 .quotes {
   padding-top: -10%;
 }
-
-.see {
+.container5 h5 {
   float: right;
-  height: 30px;
   color: blue;
+  padding-right: 5%;
 }
 .docs {
   display: flex;
@@ -179,7 +179,6 @@ h3 {
 .container5 {
   background-color: #e9fafc;
   height: 100%;
-  /* padding-top: 20px; */
   padding: 10px 10px;
 }
 .veterians {
@@ -201,13 +200,12 @@ h3 {
 }
 .cont6 button {
   height: 50px;
-  padding-left: -30px;
+  padding-left: -5px;
 }
 #fname {
   height: 50px;
   width: 200px;
 }
-
 .innerbtn {
   background-color: #489cb0;
   height: 50px;
@@ -219,7 +217,6 @@ h3 {
   background-color: #f9feff;
   display: flex;
 }
-
 .div1 {
   padding: 7%;
 }
@@ -235,6 +232,4 @@ h3 {
 .div4 {
   padding: 7%;
 }
-.y {
-  margin-left: 30%;
-}
+
